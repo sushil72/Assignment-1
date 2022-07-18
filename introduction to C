@@ -1,0 +1,33 @@
+Q1.Why do computers understand only binary language?
+Ans-> In our Computer there is a Ram which is also called as primary memory installed , The life Cycle of the any Program is there until its deleted from the RAM .
+      In RAM there is millions of capacitors are installed which Contains a charge , Capacitors has two state ON or OFF ,ON state is called as 1 and OFF state is 
+      called as 0.Thats why Computer Only understands only Binary language. 
+Q2. What is the full form of IDE?
+Ans-> IDE stands for Integrated Development Environment.
+
+Q2.What is the difference between a text editor and a code editor?
+Ans-> Text Editors are the software which considered every text as a simple text without any colorize ,font style and formatting .
+       Code Editors are the softwares with extra features specialy made for the programming purpose , it has all the feature which
+       programmer required to develop a program . it has color effect on text , different fonts , and other formatting .
+Q3.What are the steps to develop software using the C language?
+Ans-> To develop a C program follow following Steps.
+step 1: write a source code in C language.
+step 2: buid it and convert it into .exe file.
+
+5. Explore by your own
+    1. What is the latest version of C Language?
+    Ans->C17 is the informal name for ISO/IEC 9899:2018, the most recent standard for the C programming language,
+        prepared in 2017 and published in June 2018. It replaced C11 (standard ISO/IEC 9899:2011).
+        C17 will be superseded by C2x.
+        
+    2. Who developed C Language?
+    Ans-> Dennis ritchie developed the C language in AT & T's laboratery in 1972.
+    3. What is the difference between System and Application Software?
+    Ans->   The system software is used for operating computer hardware. On the other hand 
+            Application software are installed according to user’s requirements.
+    4. How to convert a number from a decimal number system to a binary number system?
+    Ans->   divide the number by 2 .
+            write down the remainders till the 1.
+            write it down in reverse order. 
+        
+         
